@@ -4,9 +4,8 @@ import {jumbotron} from "react-toastify";
 const Home=()=>{
     return <div>
 
-        <jumbotron>
-            <h1> This is a jumbotron wraper of bootstarp</h1>
-        </jumbotron>
+            <span> This is a jumbotron wraper of bootstarp</span>
+     
     </div>
     
 
